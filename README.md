@@ -57,6 +57,4 @@ I am also transitioning into Software Quality Assurance (QA) and test automation
 I don’t need to know everything today. I just need to keep moving forward.
 ."
 
-⭐ If you like my work, consider giving this repository a star!
-
 🤝 Always open to collaborations, partnerships, and new opportunities in tech.
