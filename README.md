@@ -1,7 +1,8 @@
 # Hello 👋, I'm Daniel Ferreira da Costa
 
 🚀 Technology Student | Focused on Web Development, Automation, and Systems
-🇧🇷 Nilópolis, Rio de Janeiro, Brazil
+🇧🇷  Rio de Janeiro, Brazil
+
 I build responsive web applications, clean interfaces, and efficient tools for automation and systems support.
 I have a deep focus on clean code, solid programming logic, and continuous improvement of operational and software processes.
 I am also transitioning into Software Quality Assurance (QA) and test automation.
