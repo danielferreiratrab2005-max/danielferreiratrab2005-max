@@ -49,13 +49,6 @@ I am also transitioning into Software Quality Assurance (QA) and test automation
 - 🇧🇷 Portuguese (Native)
 - 🇺🇸 English (Intermediate / Professional Working Proficiency)
 
-📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=danielferreira&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielferreira&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<br clear="left"/>
-
 🚀 Philosophy
 
 "**Learn. Build. Fail. Evolve.**
